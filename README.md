@@ -55,7 +55,7 @@ This system aims to:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/4zm1/spk_topsis_borda.git
+   git clone https://github.com/ulx-23/spk_topsis_borda.git
    ```
 2. Move project to your local server (Laragon/XAMPP)
 3. Import the database to MySQL
